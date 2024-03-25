@@ -1,0 +1,26 @@
+Available_seats_row1 : 
+0 2 3 4 5 6 7 8 9 10 11 12 
+Buy_ticket_row1 : 
+1 0 0 0 0 0 0 0 0 0 0 0 
+Count_row1 : 
+1
+row1 : 
+X O O O O O O O O O O O 
+
+Available_seats_row2 : 
+0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+Buy_ticket_row2 : 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Count_row2 : 
+1
+row2 : 
+X O O O O O O O O O O O O O O O 
+
+Available_seats_row3 : 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+Buy_ticket_row3 : 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Count_row3 : 
+0
+row3 : 
+O O O O O O O O O O O O O O O O O O O O 
